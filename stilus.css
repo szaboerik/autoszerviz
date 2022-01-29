@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+main{
+    width: 800px;
+}
+
+input {
+    padding: 12px 20px;
+    margin: 2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+
+  button {
+    background-color: grey;
+    color: white;
+    padding: 14px 20px;
+    margin: 2px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .bejel {
+    text-align:center;
+ 
+
+  }
